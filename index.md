@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Ensemble ellipse fitting by spatial median consensus
 
-You can use the [editor on GitHub](https://github.com/icai-uma/SpaMeCo_EllipseFit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This repository contains the source code of the paper [Ensemble ellipse fitting by spatial median consensus](https://doi.org/10.1016/j.ins.2021.08.011).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The contents of this code are provided without any warranty. They are intended for evaluational purposes only.
 
-### Markdown
+### Run the Demo
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You may want to start by running the provided Demo_SpaMeCo_EllipseFit.m script for synthetic data or Demo_SpaMeCo_EllipseFit_RealData.m for real images.
 
-```markdown
-Syntax highlighted code block
+![Single ellipse fitting](https://raw.githubusercontent.com/icai-uma/SpaMeCo_EllipseFit/master/example.png?raw=true "Single ellipse fitting")
 
-# Header 1
-## Header 2
-### Header 3
+Any suggestions and bug reports will be welcome.
 
-- Bulleted
-- List
+### Citation
 
-1. Numbered
-2. List
+Please, cite this work as:
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/icai-uma/SpaMeCo_EllipseFit/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Karl Thurnhofer-Hemsi, Ezequiel López-Rubio, Elidia Beatriz Blázquez-Parra, M. Carmen Ladrón-de-Guevara-Muñoz, Óscar David de-Cózar-Macías,
+Ensemble ellipse fitting by spatial median consensus,
+Information Sciences, Volume 579, 2021, Pages 310-324, ISSN 0020-0255,
+https://doi.org/10.1016/j.ins.2021.08.011.
+(https://www.sciencedirect.com/science/article/pii/S0020025521008033)
